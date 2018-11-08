@@ -1,0 +1,10 @@
+[
+  {
+     "type": "MOD_INFO",
+     "ident": "speedydex",
+     "name": "Speedy Dexterity",
+     "description": "Allows dexterity to increase speed.",
+     "category": "rebalance",
+     "dependencies":["dda"]
+  }
+]

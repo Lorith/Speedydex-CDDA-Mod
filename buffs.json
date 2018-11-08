@@ -1,0 +1,13 @@
+[
+  {
+    "type": "effect_type",
+    "id": "speedydex",
+    "max_intensity": 100000,
+    "base_mods": {
+      "speed_mod": [1]
+    },
+    "scaling_mods": {
+      "speed_mod": [1]
+    }
+  }
+]
